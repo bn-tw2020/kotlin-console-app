@@ -14,7 +14,6 @@ class ShoppingHome {
 
         val br = System.`in`.bufferedReader()
         val name = br.readLine()
-        println(name)
         println(
             """
             감사합니다. 반갑습니다, $name 님
